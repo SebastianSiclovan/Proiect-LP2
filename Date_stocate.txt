@@ -1,4 +1,4 @@
-ssdss
+
                              Datele stocate pentru persoana sebastian sunt:
 
 Numele persoanei este: sebastian
@@ -8,27 +8,39 @@ Activity level: none
 
 Numele persoanei este: seba
 Activity level: extreme
-                             Datele stocate pentru persoana dsa sunt:
+                             Datele stocate pentru persoana victor sunt:
 
-Numele persoanei este: dsa
+Numele persoanei este: victor
 Activity level: light
                              Datele stocate pentru persoana grigore sunt:
 
 Numele persoanei este: grigore
 Activity level: heavy
-                             Datele stocate pentru persoana alesia sunt:
+                             Datele stocate pentru persoana silvia sunt:
 
-Numele persoanei este: alesia
+Numele persoanei este: silvia
 Activity level: extreme
                              Datele stocate pentru persoana victor sunt:
 
 Numele persoanei este: victor
 Activity level: moderate
-                             Datele stocate pentru persoana xu sunt:
+                             Datele stocate pentru persoana xulescu sunt:
 
-Numele persoanei este: xu
+Numele persoanei este: xulescu
 Activity level: none
                              Datele stocate pentru persoana Raluca sunt:
 
 Numele persoanei este: Raluca
 Activity level: moderate
+
+                             Datele stocate pentru persoana sebastian sunt:
+
+Numele persoanei este: sebastian
+Activity level: none
+                             Datele stocate pentru persoana sebastian sunt:
+
+
+                             Datele stocate pentru persoana emanuel roca sunt:
+
+Numele persoanei este: emanuel roca
+Activity level: none
