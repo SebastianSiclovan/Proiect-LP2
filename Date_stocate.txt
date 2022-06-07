@@ -29,7 +29,7 @@ Activity level: moderate
 Numele persoanei este: xulescu
 Activity level: none
                              Datele stocate pentru persoana Raluca sunt:
-
+f
 Numele persoanei este: Raluca
 Activity level: moderate
 
